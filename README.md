@@ -29,7 +29,7 @@
 [<img width="461" height="962" alt="3" src="https://github.com/user-attachments/assets/9249242e-127a-4595-9e52-297c913235bd" />]
 
 ## Cara Menjalankan
-1. Clone repo  : git clone [url-repo-kamu]
+1. Clone repo  : git clone [https://github.com/pedropasaribu25/pertemuan6/tree/main]
 2. Install deps: npm install
 3. Jalankan    : npx expo start
 4. Scan QR Code dengan Expo Go di HP
